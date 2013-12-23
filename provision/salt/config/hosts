@@ -2,25 +2,10 @@
 ::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
 
 ### Host entries for WSUWP Environment
-127.0.0.1                    wp.wsu.edu
-127.0.0.1            invalid.wp.wsu.edu
-127.0.0.1              test1.wp.wsu.edu
-127.0.0.1            content.wp.wsu.edu
-127.0.0.1           network1.wp.wsu.edu
-127.0.0.1     test1.network1.wp.wsu.edu
-127.0.0.1   invalid.network1.wp.wsu.edu
-127.0.0.1     site1.network1.wp.wsu.edu
-127.0.0.1     site2.network1.wp.wsu.edu
-127.0.0.1           network2.wp.wsu.edu
-127.0.0.1     test1.network2.wp.wsu.edu
-127.0.0.1   invalid.network2.wp.wsu.edu
-127.0.0.1               school1.wsu.edu
-127.0.0.1         test1.school1.wsu.edu
-127.0.0.1         site1.school1.wsu.edu
-127.0.0.1         site2.school1.wsu.edu
-127.0.0.1       invalid.school1.wsu.edu
-127.0.0.1               school2.wsu.edu
-127.0.0.1         test1.school2.wsu.edu
-127.0.0.1       invalid.school2.wsu.edu
-127.0.0.1               invalid.wsu.edu
+127.0.0.1           store.mage.dev
+127.0.0.1           events.store.mage.dev
+127.0.0.1           student.store.mage.dev
+127.0.0.1           general.store.mage.dev
+127.0.0.1           store.admin.mage.dev
+127.0.0.1           tech.store.mage.dev
 #######################################
